@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-tts/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-tts/releases/download/v0.1.1-alpha.2/plugin-tts.zip",
-  "sha256": "1fc37dc1f22d4710158038c9b8a83c552c4b372c0593a8156aea1da128f231f6"
+  "sha256": "7061e449481e7b4f635895fa43210ffcd92b54c9831693a6a806a817efcb585d"
 }
